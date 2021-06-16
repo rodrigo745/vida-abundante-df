@@ -1,0 +1,39 @@
+.colorNav{
+    background-color: aliceblue;
+}
+.overlayport{
+    margin-bottom: 10vh
+}
+.supOver{
+
+}
+.cambios-video{
+    margin-top: 4px;
+}
+.ancho-video{
+    width: 870px;
+    height: 500px;
+}
+@media screen and (max-width: 900px){
+    .cambios-video{
+        margin-top: 30px;
+    }
+    .ancho-video{
+        width: 600px;
+        height: 400px;
+    }
+}
+@media screen and (max-width: 700px){
+    .cambios-video{
+        margin-top: -80px;
+    }
+    .ancho-video{
+        width: 370px;
+        height: 250px;
+    }
+}
+@media screen and (max-width: 400px){
+    .cambios-video{
+        margin-top: 10px;
+    }
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 547 113" style="enable-background:new 0 0 547 113;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#F7F9F9;}
+	.st2{font-family:'FranklinGothic-Heavy';}
+	.st3{font-size:34px;}
+	.st4{fill:#CFE2E8;}
+	.st5{font-size:55px;}
+	.st6{clip-path:url(#SVGID_2_);}
+	.st7{clip-path:url(#SVGID_4_);fill:#28A5DF;}
+</style>
+<rect x="131.4" y="27" class="st0" width="216.6" height="37"/>
+<text transform="matrix(1 0 0 1 131.3735 49.6738)" class="st1 st2 st3">Ministerio</text>
+<rect x="130.2" y="62.2" class="st0" width="414.3" height="89.8"/>
+<text transform="matrix(1 0 0 1 130.1914 98.9253)" class="st4 st2 st5">Vida Abundante</text>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-7" y="0" width="132.5" height="112"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st6">
+			<defs>
+				<rect id="SVGID_3_" x="-7" y="0" width="132.5" height="112"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<path class="st7" d="M4.9,52.9v42.8c0,7.2,5.8,13,13,13h55.8c-1.4-1.4-2.9-2.8-4.4-4.4C57.5,91.6,41.4,74.5,37,47.6
+				c-6.5,0.5-11.7,1.3-15.5,1.9C14.7,50.5,9,51.8,4.9,52.9"/>
+			<path class="st7" d="M35.8,34.8c-0.1-7.5,0.7-17.2,4-28.2H17.9c-7.2,0-13,5.8-13,13v18.1C12.5,36,23.1,34.4,35.8,34.8"/>
+			<path class="st7" d="M104.6,6.6H71.7c-2,5-4.1,11.5-5.5,19.1c-0.9,4.7-1.4,9.2-1.6,13.4c0.9,0.3,1.9,0.5,2.8,0.8
+				c4.5,1.4,12.2,3.7,20.8,8.6c5.7,3.3,9.9,6.6,12.8,9.1c-13.1-5.6-24.9-8-32.9-9.2c-1.2-0.2-2.4-0.3-3.5-0.5
+				c0.3,9,1.8,15.9,2.6,19.7c3.7,16.9,11,30.6,18.5,40.9h19.1c7.2,0,13-5.8,13-13V19.6C117.6,12.4,111.8,6.6,104.6,6.6"/>
+		</g>
+	</g>
+</g>
+</svg>
